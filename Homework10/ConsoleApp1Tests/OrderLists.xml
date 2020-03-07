@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<ArrayOfCreatOrders xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CreatOrders>
+    <List1>Apple $8  meat $10 pants $30 cake $10 Apple $8 </List1>
+  </CreatOrders>
+  <CreatOrders>
+    <List1>meat $10 </List1>
+  </CreatOrders>
+  <CreatOrders>
+    <List1>pants $30  cake $10 meat $10 </List1>
+  </CreatOrders>
+  <CreatOrders>
+    <List1>cake $10 Apple $8 </List1>
+  </CreatOrders>
+</ArrayOfCreatOrders>
